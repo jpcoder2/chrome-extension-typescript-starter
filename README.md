@@ -75,6 +75,8 @@ Load `dist` directory
 
 ## Package for Chrome app store
 
+This will increment the build number in the manifest.json and create the .zip file needed for the app store.
+
 ### terminal
 
 ```
