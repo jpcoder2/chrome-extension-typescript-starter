@@ -34,6 +34,9 @@ Chrome Extension, TypeScript and Visual Studio Code
 ## Setup
 
 ```
+## Install gulp cli if you don't already have it
+npm install --global gulp-cli
+## Install other local packages
 npm install
 ```
 
@@ -44,7 +47,7 @@ npm install
 ## Build
 
 ```
-npm run build
+gulp build
 ```
 
 ## Build in watch mode
