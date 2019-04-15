@@ -60,7 +60,7 @@ gulp build
 ### terminal
 
 ```
-npm run watch
+gulp watch
 ```
 
 ### Visual Studio Code
@@ -73,3 +73,10 @@ type `Ctrl + Shift + B`
 
 Load `dist` directory
 
+## Package for Chrome app store
+
+### terminal
+
+```
+gulp package
+```
